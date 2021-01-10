@@ -1,1 +1,2 @@
-# ART-GALLERY-MANAGEMENT
+# Art-Gallery-Management-System
+Project files
